@@ -2,6 +2,43 @@
 
 Versi asli: [Bahasa Inggris](../README.md)
 
+<div align="center">
+	<hr />
+    <p>
+        <a href="https://github.com/sponsors/jwasham"><strong>Become a sponsor</strong> and support Coding Interview University!</a>
+    </p>
+    <p>
+        <strong>Special thanks to:</strong>
+    </p>
+    <p>
+        <a href="https://oss.capital/">
+            <div>
+                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/oss-capital.svg" width="350" alt="OSS Capital">
+            </div>
+            <div>
+                <sup><strong>Founded in 2018, OSS Capital is the first and only venture capital platform focused<br>exclusively on supporting early-stage COSS (commercial open source) startup founders.</strong></sup>
+            </div>
+        </a>
+    </p>
+    <br />
+    <p>
+        <a href="https://www.gitpod.io/?utm_campaign=jwasham&utm_medium=referral&utm_content=coding-interview-university&utm_source=github">
+            <div>
+                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/gitpod-logo-light-theme.svg" width="300" alt="Gitpod">
+            </div>
+            <div>
+                <p>
+                    <strong>Dev environments built for the cloud</strong>
+                </p>
+            </div>
+            <div>
+                <sup>Natively integrated with GitLab, GitHub, and Bitbucket, Gitpod automatically and continuously prebuilds dev environments for all your branches. As a result team members can instantly start coding with fresh dev environments for each new task - no matter if you are building a new feature, want to fix a bug, or work on a code review.</sup>
+            </div>
+        </a>
+    </p>
+    <hr />
+</div>
+
 ## Ringkasan apa ini?
 
 Ini adalah rencana studi multi-bulan saya untuk beralih dari pengembang web (otodidak, tanpa gelar Ilmu Komputer) menjadi insinyur perangkat lunak untuk perusahaan besar.
@@ -240,7 +277,7 @@ Ini adalah daftar pendek yang saya gunakan. Ini disingkat untuk menghemat waktu 
 
 ### Persiapan Interview
 
-- [ ] [Programming Interviews Exposed: Secrets to Landing Your Next Job, 2nd Edition](http://www.wiley.com/WileyCDA/WileyTitle/productCd-047012167X.html)
+- [ ] [Programming Interviews Exposed: Secrets to Landing Your Next Job, 4th Edition](https://www.wiley.com/en-us/Programming+Interviews+Exposed%3A+Coding+Your+Way+Through+the+Interview%2C+4th+Edition-p-9781119418481)
     - jawaban di C++ and Java
     - direkomendasikan di Google candidate coaching
     - ini adalah pemanasan yang baik untuk Cracking the Coding Interview
@@ -820,7 +857,7 @@ Graf (Graphs) dapat digunakan untuk merepresentasikan banyak masalah dalam ilmu 
     - Kapan saat yang tepat untuk menggunakannya?
     - Bagaimana rekursi ekor lebih baik daripada tidak?
         - [ ] [Apa Itu Rekursi Ekor Mengapa Sangat Buruk?](https://www.quora.com/What-is-tail-recursion-Why-is-it-so-bad)
-        - [ ] [Rekursi Ekor (video)](https://www.youtube.com/watch?v=L1jjXGfxozc)
+        - [ ] [Rekursi Ekor (video)](https://www.coursera.org/lecture/programming-languages/tail-recursion-YZic1)
 
 - ### Pemrograman Dinamis
     - Anda mungkin tidak akan melihat masalah pemrograman dinamis dalam wawancara Anda, tetapi ada baiknya mengenali masalah sebagai kandidat untuk pemrograman dinamis (Dynamic Programming).
@@ -1102,7 +1139,7 @@ Graf (Graphs) dapat digunakan untuk merepresentasikan banyak masalah dalam ilmu 
     - [ ] [Cara Menghapus Duplikat dalam Kumpulan Data Besar](https://blog.clevertap.com/how-to-remove-duplicates-in-large-datasets/)
     - [ ] [Sekilas tentang skala dan budaya teknik Etsy dengan Jon Cowie (video)](https://www.youtube.com/watch?v=3vV4YiqKm1o)
     - [ ] [Apa yang Membawa Amazon ke Arsitektur Layanan Mikro Sendiri](http://thenewstack.io/led-amazon-microservices-architecture/)
-    - [ ] [Untuk Mengompresi Atau Tidak Mengompresi, Itu Pertanyaan Uber](https://eng.uber.com/trip-data-squeeze/)
+    - [ ] [Untuk Mengompresi Atau Tidak Mengompresi, Itu Pertanyaan Uber](https://eng.uber.com/trip-data-squeeze-json-encoding-compression/)
     - [ ] [Asyncio Tarantool Queue, Masuk Antrian](http://highscalability.com/blog/2016/3/3/asyncio-tarantool-queue-get-in-the-queue.html)
     - [ ] [Kapan Perkiraan Pemrosesan Kueri Digunakan?](http://highscalability.com/blog/2016/2/25/when-should-approximate-query-processing-be-used.html)
     - [ ] [Transisi Google Dari Pusat Data Tunggal, Ke Failover, Ke Arsitektur Native Multihomed](http://highscalability.com/blog/2016/2/23/googles-transition-from-single-datacenter-to-failover-to-a-n.html)
@@ -1157,7 +1194,6 @@ Graf (Graphs) dapat digunakan untuk merepresentasikan banyak masalah dalam ilmu 
     - Latihan:
         - [Desain jaringan CDN: artikel lama](https://kilthub.cmu.edu/articles/Globally_distributed_content_delivery/6605972)
         - [Rancang sistem pembuatan ID unik secara acak](https://blog.twitter.com/2010/announcing-snowflake)
-        - [Rancang permainan kartu multipemain daring](http://www.indieflashblog.com/how-to-create-an-asynchronous-multiplayer-game.html)
         - [Mendesain database nilai kunci](http://www.slideshare.net/dvirsky/introduction-to-redis)
         - [Rancang sistem berbagi gambar](http://highscalability.com/blog/2011/12/6/instagram-architecture-14-million-users-terabytes-of-photos.html)
         - [Rancang sistem rekomendasi](http://ijcai13.org/files/tutorial_slides/td3.pdf)
@@ -1208,7 +1244,6 @@ Tambahan:
 - [Matematika untuk Topcoders](https://www.topcoder.com/community/competitive-programming/tutorials/mathematics-for-topcoders/)
 - [Pemrograman Dinamis - Dari Pemula hingga Mahir](https://www.topcoder.com/community/competitive-programming/tutorials/dynamic-programming-from-novice-to-advanced/)
 - [Materi Wawancara MIT](https://web.archive.org/web/20160906124824/http://courses.csail.mit.edu/iap/interview/materials.php)
-- [Latihan untuk menjadi lebih baik pada bahasa tertentu](http://exercism.io/languages)
 
 **Baca dan Lakukan Masalah Pemrograman (dalam urutan ini):**
 
@@ -1245,7 +1280,7 @@ Situs tantangan:
 - [TopCoder](https://www.topcoder.com/)
 - [InterviewCake](https://www.interviewcake.com/)
 - [Geeks for Geeks](http://www.geeksforgeeks.org/)
-- [InterviewBit](https://www.interviewbit.com/invite/icjf)
+- [InterviewBit](https://www.interviewbit.com)
 - [Project Euler (math-focused)](https://projecteuler.net/index.php?section=problems)
 - [Code Exercises](https://code-exercises.com)
 
@@ -1260,7 +1295,7 @@ Repo tantangan:
 - [Tantangan Interview Coding Interaktif dengan Python](https://github.com/donnemartin/interactive-coding-challenges)
 
 Wawancara Mock:
-- [Gainlo.co: Mock pewawancara dari perusahaan besar](http://www.gainlo.co/) - Saya menggunakan ini dan itu membantu saya bersantai untuk layar ponsel dan wawancara di tempat
+- [Gainlo.co: Mock pewawancara dari perusahaan besar](http://www.gainlo.co/#!/) - Saya menggunakan ini dan itu membantu saya bersantai untuk layar ponsel dan wawancara di tempat
 - [Pramp: Wawancara mengejek dari / dengan teman sebaya](https://www.pramp.com/) - model wawancara praktik peer-to-peer
 - [Refdash: Wawancara tiruan dan wawancara yang dipercepat](https://refdash.com/) - juga membantu kandidat mempercepat dengan melewatkan beberapa wawancara dengan perusahaan teknologi
 - [interviewing.io: Berlatih wawancara tiruan dengan insinyur senior](https://interviewing.io) - wawancara desain algoritme / sistem tanpa nama dengan insinyur senior dari FAANG secara anonim.
@@ -1598,7 +1633,7 @@ Anda tidak pernah benar-benar selesai.
         - [Aduni - Algoritma - Kuliah 4 (link lompat ke titik awal) (video)](https://youtu.be/1W3x0f_RmUo?list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&t=3871)
         - [Aduni - Algoritma - Kuliah 5 (video)](https://www.youtube.com/watch?v=hm2GHwyKF1o&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&index=5)
         - [Red-Black Tree](https://en.wikipedia.org/wiki/Red%E2%80%93black_tree)
-        - [Pengantar Pencarian Biner Dan Red-Black Tree](https://www.topcoder.com/community/competitive-programming/tutorials/an-introduction-to-binary-search-and-red-black-trees/)
+        - [Pengantar Pencarian Biner Dan Red-Black Tree](https://www.topcoder.com/thrive/articles/An%20Introduction%20to%20Binary%20Search%20and%20Red-Black%20Trees)
 
     - **2-3 search trees**
         - Dalam praktek:
@@ -1692,17 +1727,15 @@ Anda tidak pernah benar-benar selesai.
     - [Alat pembelajaran Mesin Cloud Google (video)](https://www.youtube.com/watch?v=Ja2hxBAwG_0)
     - [Resep Pembelajaran Mesin Google Developers (Scikit Learn & Tensorflow) (video)](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
     - [Tensorflow (video)](https://www.youtube.com/watch?v=oZikw5k_2FM)
-    - [Tutorial Tensorflow](https://www.tensorflow.org/versions/r0.11/tutorials/index.html)
+    - [Tutorials Tensorflow](https://www.tensorflow.org/tutorials)
     - [Panduan Praktis untuk mengimplementasikan Jaringan Neural dengan Python (menggunakan Theano)](http://www.analyticsvidhya.com/blog/2016/04/neural-networks-python-theano/)
     - Kursus:
         - [Kursus pemula yang bagus: Pembelajaran Mesin](https://www.coursera.org/learn/machine-learning)
               - [video saja](https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW)
               - lihat video 12-18 untuk review aljabar linier (14 dan 15 adalah duplikat)
-        - [Jaringan Neural untuk Pembelajaran Mesin](https://www.coursera.org/learn/neural-networks)
         - [Nanodegree Deep Learning Google](https://www.udacity.com/course/deep-learning--ud730)
-        - [Nanodegree Machine Learning Engineer Google / Kaggle](https://www.udacity.com/course/machine-learning-engineer-nanodegree-by-google--nd009)
+        - [Nanodegree Machine Learning Engineer Google / Kaggle](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t)
         - [Nanodegree, Insinyur Mobil Mengemudi Mandiri](https://www.udacity.com/drive)
-        - [Kursus Online Metis ($99 selama 2 bulan)](http://www.thisismetis.com/explore-data-science)
     - Sumber:
         - Buku:
             - [Pembelajaran Mesin Python](https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka/dp/1783555130/)
@@ -1812,7 +1845,7 @@ Duduk dan nikmati. "Netflix dan keterampilan": P
 
 - [Ilmu Komputer 70, 001 - Musim Semi 2015 - Matematika Diskrit dan Teori Probabilitas](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs70-spring2015-berkeley.html)
 
-- [Matematika Diskrit oleh Shai Simonson (19 video)](https://www.youtube.com/playlist?list=PL3o9D4Dl2FJ9q0_gtFXPh_H4POI5dK0yG)
+- [Matematika Diskrit oleh Shai Simonson (19 video)](https://www.youtube.com/playlist?list=PLWX710qNZo_sNlSWRMVIh6kfTjolNaZ8t)
 
 - [Matematika Diskrit Bagian 1 oleh Sarada Herke (5 video)](https://www.youtube.com/playlist?list=PLGxuz-nmYlQPOc4w1Kp2MZrdqOOm4Jxeo)
 
@@ -1853,7 +1886,7 @@ Duduk dan nikmati. "Netflix dan keterampilan": P
 
 - [MIT 6.858 Computer Systems Security, Musim Gugur 2014](https://www.youtube.com/watch?v=GqmQg-cszw4&index=1&list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh)
 
-- [Stanford: Paradigma Pemrograman (27 video)](https://www.youtube.com/view_play_list?p=9D558D49CA734A02)
+- [Stanford: Paradigma Pemrograman (27 video)](https://www.youtube.com/playlist?list=PL9D558D49CA734A02)
 
 - [Pengantar Kriptografi oleh Christof Paar](https://www.youtube.com/playlist?list=PL6N5qY2nvvJE8X75VkXglSrVhLv1tVcfy)
     - [Situs Kursus bersama dengan Slide dan Kumpulan Soal](http://www.crypto-textbook.com/)
